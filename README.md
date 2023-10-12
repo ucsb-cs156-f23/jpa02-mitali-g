@@ -1,6 +1,6 @@
 # jpa02-mitali-g
 
-Repo: [https://github.com/ucsb-cs156-f23/jpa02-mitali-g](http://jpa02-mitali-g.dokku-04.cs.ucsb.edu)
+Repo: [https://github.com/ucsb-cs156-f23/jpa02-mitali-g](https://github.com/ucsb-cs156-f23/jpa02-mitali-g)
 Deployed at: [http://jpa02-mitali-g.dokku-04.cs.ucsb.edu](http://jpa02-mitali-g.dokku-04.cs.ucsb.edu)
 
 
